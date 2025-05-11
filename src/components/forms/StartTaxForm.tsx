@@ -33,7 +33,7 @@ export default function StartTaxForm({ onStart }: StartTaxFormProps) {
     <div className="max-w-3xl mx-auto p-4">
       <div className="flex flex-col items-center justify-center">
         <div className="text-center">
-          <h1 className="text-4xl font-bold text-gray mb-15">
+          <h1 className="text-2xl md:text-4xl font-bold text-gray mb-15">
             Taxe sur les taxis interurbains
             <br />
             ou ceux dotés d’un compteur

@@ -104,7 +104,7 @@ export default function VehicleInfoPage({ onSubmit, handlePrevious }: Props) {
 
   return (
     <>
-      <h2 className="text-4xl font-bold text-black text-center tracking-wider">
+      <h2 className="text-2xl md:text-4xl font-bold text-black text-center tracking-wider">
         Saisissez les informations du véhicule
       </h2>
       <p className="text-center text-xl text-gray-600 mt-2 mb-10 tracking-wide">

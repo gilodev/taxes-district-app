@@ -62,7 +62,7 @@ export default function LinkedPersonsPage({ onSubmit, handlePrevious }: Props) {
 
   return (
     <>
-      <h2 className="text-4xl font-bold text-black text-center tracking-wider">
+      <h2 className="text-3xl md:text-4xl font-bold text-black text-center tracking-wider">
         Saisissez les informations des personnes
         <br />
         liées au véhicule

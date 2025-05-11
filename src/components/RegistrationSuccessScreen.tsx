@@ -15,7 +15,7 @@ export default function RegistrationSuccessScreen() {
             <FaCheck className="text-green-500 text-5xl" />
           </div>
 
-          <h1 className="text-3xl font-bold text-gray-800 mb-4">
+          <h1 className="text-2xl font-bold text-gray-800 mb-4">
             Enregistrement effectué !
           </h1>
 

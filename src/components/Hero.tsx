@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="w-full py-15 px-4">
       <div className="max-w-6xl mx-auto flex flex-col items-center text-center">
-        <h1 className="text-4xl md:text-5xl font-bold mb-8 text-blue leading-tight">
+        <h1 className="text-2xl md:text-5xl font-bold mb-8 text-blue leading-tight">
           Service de paiement des
           <br />
           taxes du District Autonome

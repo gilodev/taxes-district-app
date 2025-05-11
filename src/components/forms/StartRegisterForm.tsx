@@ -37,7 +37,7 @@ export default function StartRegisterForm({ onStart }: StartRegisterFormProps) {
     <div className="max-w-3xl mx-auto p-4">
       <div className="flex flex-col items-center justify-center">
         <div className="text-center">
-          <h1 className="text-4xl font-bold text-blue mb-2">
+          <h1 className="text-3xl md:text-4xl font-bold text-blue mb-2">
             Bienvenue sur l'espace
             <br />
             d'enregistrement de véhicule
