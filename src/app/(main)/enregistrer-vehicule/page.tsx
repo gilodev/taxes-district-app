@@ -51,7 +51,7 @@ export default function VehicleRegistrationPage() {
           error?.response?.data?.message || "Échec de l'enregistrement"
         );
       } else {
-        toast.error("Erreur lors du processus");
+        toast.error("Erreur lors du processus", error);
       }
     },
   });
